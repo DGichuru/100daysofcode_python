@@ -47,10 +47,10 @@ print("\n")
 print('Running some tests on your code:')
 print(".\n.\n.\n.")
 unittest.main(verbosity=1, exit=False)"""
-
+"""
 direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
 text = input("Type your message:\n").lower()
 shift = int(input("Type the shift number:\n"))
 
-def encypt(text, shift ):
+def encypt(text, shift ):"""
 
