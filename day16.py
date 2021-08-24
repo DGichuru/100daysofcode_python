@@ -8,3 +8,6 @@ while True:
         break
 end_fill()
 done()
+
+"""with open("myfile.csv") as fp:
+    mytable = from_csv(fp)"""
