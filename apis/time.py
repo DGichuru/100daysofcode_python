@@ -4,7 +4,7 @@ import random
 
 MY_EMAIL = "dangichuru77@gmail.com"
 TO_ADD = "dangichuru54@students.uonbi.ac.ke"
-MY_PASSWORD = "11230313009"
+MY_PASSWORD = "***"
 
 now = dt.datetime.now()
 weekday = now.weekday()
